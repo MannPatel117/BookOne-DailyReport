@@ -1,0 +1,7 @@
+{
+  "name": "BookOneReport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
